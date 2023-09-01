@@ -9,6 +9,7 @@ struct Fin_Data {
     double Interest_Rate;
     double Inflation_Rate;
 };
+// entry point of the program add commnet for commit purpose 
 
 int main() {
     ifstream file("india_data.csv");
